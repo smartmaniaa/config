@@ -1,0 +1,2 @@
+# config
+SmartManiaa platform configuration
